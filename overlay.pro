@@ -32,5 +32,5 @@ finalimage = FLTARR(x,y)
 finalimage = newimage606 - image160
 
 ;Save Results
-mwrfits, finalimage, 'final.fits'
+mwrfits, finalimage, 'v-h.fits'
 END
